@@ -103,3 +103,4 @@ print *, rimska
 
 end program decimal_to_roman
 
+! Vrne prazen string, treba popraviti
